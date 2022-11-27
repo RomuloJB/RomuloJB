@@ -5,8 +5,9 @@
 - 👯 I’m looking to collaborate on projects using JS, HTML, CSS, JAVA
 - 💬 Ask me about my life experience
 - 📫 How to reach me: E-mail - bogoniromulo@gmail.com
-- 😄 Portuguese: Native
--     English: Fluent
--     Spanish: Intermediate
-- ⚡ Fun fact: 
+- 🗣️ Portuguese: Native
+- 🗣️ English: Fluent
+- 🗣️ Spanish: Intermediate
+- 
+- ⚡ Fun fact: Besides programming, I like to talk and learn about metaverse, finance, investiments, stock market, cryptocurrencies, 
 -->
