@@ -9,5 +9,5 @@
 - 🗣️ English: Fluent
 - 🗣️ Spanish: Intermediate
 - 
-- ⚡ Fun fact: Besides programming, I like to talk and learn about metaverse, finance, investiments, stock market, cryptocurrencies, 
+- ⚡ Fun fact: Besides programming, I like to talk and learn about metaverse, finance, investments, stock market, cryptocurrencies, soccer and other sports.
 -->
