@@ -2,11 +2,11 @@
 
 - 🔭 Atualmente estou fazendo projetos para Front-End
 - 🌱 Desde 22 de outubro estou aprendendo JavaScript
-- 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA ou qualquer outra linguagem que eu possa aprender
+- 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA, mySQL ou outra linguagem que eu possa aprender
 - 🗣️ Portuguese: Native
 - 🗣️ English: Fluent
 - 🗣️ Spanish: Intermediate
-- 
+
 - ⚡ Fun fact: Além de programar, Eu gosto de assuntos como metaverso, finanças, investimentos, mercado de ações, criptomoedas, futebol e outros esportes
 ##
 <div align="center">
