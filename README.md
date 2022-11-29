@@ -1,14 +1,5 @@
 ### Olá, eu sou o Rômulo Jordão Bogoni (RomuloJB), estudante de Engenharia de Software!
 
-- 🔭 Atualmente estou fazendo projetos para Front-End
-- 🌱 Desde 22 de outubro estou aprendendo JavaScript
-- 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA, mySQL ou outra linguagem que eu possa aprender
-- 🗣️ Portuguese: Native
-- 🗣️ English: Fluent
-- 🗣️ Spanish: Intermediate
-
-- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como metaverso, finanças, investimentos, mercado de ações, criptomoedas, futebol e outros esportes
-##
 <div align="center">
   <a href="https://github.com/RomuloJB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RomuloJB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -23,3 +14,12 @@
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
 </div>
+##
+  - 🔭 Atualmente estou fazendo projetos para Front-End
+- 🌱 Desde 22 de outubro estou aprendendo JavaScript
+- 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA, mySQL ou outra linguagem que eu possa aprender
+- 🗣️ Portuguese: Native
+- 🗣️ English: Fluent
+- 🗣️ Spanish: Intermediate
+
+- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como metaverso, finanças, investimentos, mercado de ações, criptomoedas, futebol e outros esportes
