@@ -14,8 +14,10 @@
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
 </div>
+  
 ##
-  - 🔭 Atualmente estou fazendo projetos para Front-End
+  
+- 🔭 Atualmente estou fazendo projetos para Front-End
 - 🌱 Desde 22 de outubro estou aprendendo JavaScript
 - 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA, mySQL ou outra linguagem que eu possa aprender
 - 🗣️ Portuguese: Native
