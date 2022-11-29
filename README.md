@@ -1,5 +1,10 @@
 ### Olá, eu sou o Rômulo Jordão Bogoni (RomuloJB), estudante de Engenharia de Software!
 
+<div> 
+  <a href = "mailto:bogoniromulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rômulo-jordão-bogoni-3b572b236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 <div align="center">
   <a href="https://github.com/RomuloJB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RomuloJB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
