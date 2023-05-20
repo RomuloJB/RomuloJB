@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rômulo Jordão Bogoni (RomuloJB), estudante de Engenharia de Software!
 
 <div> 
-  <a href = "mailto:bogoniromulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jordaobogoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rômulo-jordão-bogoni-3b572b236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -22,8 +22,8 @@
   
 ##
   
-- 🔭 Atualmente estou fazendo projetos para Front-End
-- 🌱 Desde 22 de outubro estou aprendendo JavaScript
+- 🔭 Atualmente estou estudando Engenharia de Software no Instituto Federal do Paraná
+- 🌱 Aprendendo Python desde 7 de fevereiro de 2023
 - 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA, mySQL ou outra linguagem que eu possa aprender
 - 🗣️ Portuguese: Native
 - 🗣️ English: Fluent
