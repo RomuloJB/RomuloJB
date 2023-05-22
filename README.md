@@ -24,7 +24,7 @@
   
 - 🔭 Atualmente estou estudando Engenharia de Software no Instituto Federal do Paraná
 - 🌱 Aprendendo Python desde 7 de fevereiro de 2023
-- 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA, mySQL ou outra linguagem que eu possa aprender
+- 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA, mySQL, Python, ou outra linguagem que eu possa aprender
 - 🗣️ Portuguese: Native
 - 🗣️ English: Fluent
 - 🗣️ Spanish: Intermediate
