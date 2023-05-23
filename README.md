@@ -30,4 +30,4 @@
 - 🗣️ English: Fluent
 - 🗣️ Spanish: Intermediate
 
-- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como metaverso, finanças, investimentos, mercado de ações, criptomoedas, futebol e outros esportes
+- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como metaverso, inteligência artificial, finanças, investimentos, mercado de ações, criptomoedas, futebol e outros esportes.
