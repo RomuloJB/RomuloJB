@@ -24,10 +24,10 @@
 ##
   
 - 🔭 Atualmente estou estudando Engenharia de Software no Instituto Federal do Paraná
-- 🌱 Aprendendo Python desde 7 de fevereiro de 2023
+- 🌱 Em meus repositórios você encontrá meus projetos pessoais e coisas da faculdade.
 - 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JS, HTML, CSS, JAVA, mySQL, Python, ou outra linguagem que eu possa aprender
 - 🗣️ Portuguese: Native
 - 🗣️ English: Fluent
 - 🗣️ Spanish: Intermediate
 
-- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como metaverso, inteligência artificial, finanças, investimentos, mercado de ações, criptomoedas, futebol e outros esportes.
+- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como inteligência artificial, finanças, investimentos, mercado de ações, criptomoedas, futebol e outros esportes.
