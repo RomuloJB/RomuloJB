@@ -1,4 +1,4 @@
-### Olá, eu sou o Rômulo Jordão Bogoni (RomuloJB), estudante de Engenharia de Software!
+### Olá, eu sou o Rômulo Jordão Bogoni (RomuloJB), Engenheiro de Software!
 
 <div> 
   <a href = "mailto:jordaobogoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
