@@ -31,4 +31,4 @@
 - 🗣️ English: Fluente (Fluent)
 - 🗣️ Spanish: Intermediário (Intermediate)
 
-- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como inteligência artificial, finanças, investimentos, mercado de ações, criptomoedas, futebol e outros esportes.
+- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como inteligência artificial, finanças, investimentos, mercado de ações, criptomoedas, marketing digital, futebol e outros esportes.
