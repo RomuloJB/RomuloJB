@@ -24,11 +24,11 @@
   
 ##
   
-- 🔭 Atualmente estou Participando de um projeto de Engenharia de Software no Instituto Federal do Paraná, utilizando JS, NodeJS e React.
-- 🌱 Em meus repositórios você encontrá meus projetos e alguns exercícios de fixação.
+- 🔭 Atualmente estou Participando de um projeto de Engenharia de Software no Instituto Federal do Paraná, utilizando JS, NodeJS e React
+- 🌱 Em meus repositórios você encontrá meus projetos e alguns exercícios de fixação
 - 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JavaScript, NodeJS, React, HTML, CSS, JAVA, MySQL, ou outra linguagem que eu possa aprender
 - 🗣️ Portuguese: Nativo (Native)
 - 🗣️ English: Fluente (Fluent)
 - 🗣️ Spanish: Intermediário (Intermediate)
 
-- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como inteligência artificial, finanças, investimentos, mercado de ações, criptomoedas, marketing digital, futebol e outros esportes.
+- ⚡ Fun fact: Além de programar, Eu gosto de assuntos como inteligência artificial, finanças, investimentos, mercado de ações, criptomoedas, marketing digital, futebol e outros esportes
