@@ -24,7 +24,7 @@
   
 ##
   
-- 🔭 Atualmente estou Participando de um projeto de Engenharia de Software no Instituto Federal do Paraná, utilizando JS, NodeJS e React
+- 🔭 Atualmente estou trabalhando em projetos de Programação Web e Mobile
 - 🌱 Em meus repositórios você encontrá meus projetos e alguns exercícios de fixação
 - 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JavaScript, NodeJS, React, HTML, CSS, JAVA, MySQL, ou outra linguagem que eu possa aprender
 - 🗣️ Portuguese: Nativo (Native)
