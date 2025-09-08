@@ -1,4 +1,4 @@
-### Olá, eu sou o Rômulo Jordão Bogoni (RomuloJB), Engenheiro de Software!
+### Olá, eu sou o Rômulo, Engenheiro de Software!
 
 <div> 
   <a href = "mailto:jordaobogoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,7 +24,7 @@
   
 ##
   
-- 🔭 Atualmente estou trabalhando em projetos de Programação Web e Mobile
+- 🔭 Atualmente estou trabalhando em projetos de Programação Web
 - 🌱 Em meus repositórios você encontrá meus projetos e alguns exercícios de fixação
 - 👯 Estou procurando projetos back-end, front-end ou full-stack que utilizem JavaScript, NodeJS, React, HTML, CSS, JAVA, MySQL, ou outra linguagem que eu possa aprender
 - 🗣️ Portuguese: Nativo (Native)
