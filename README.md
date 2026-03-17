@@ -25,7 +25,7 @@
   
 ##
   
-- 🔭 Atualmente estou trabalhando em projetos de Programação Web, Desenvolvimento Mobile e Cross-platfom(integração entre web e mobile apps)
+- 🔭 Atualmente estou trabalhando em projetos de Programação Web
 - 🌱 Em meus repositórios você encontrará meus projetos e alguns exercícios de fixação
 - 👯 Estou procurando projetos back-end, front-end ou full-stack
 - 🗣️ Portuguese: Nativo (Native)
