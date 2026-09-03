@@ -25,9 +25,9 @@
   
 ##
   
-- 🔭 Atualmente estou trabalhando em projetos de Programação Web
+- 🔭 Atualmente estou trabalhando em projetos de Programação Web com Python Django, Spring boot, ReactJS e PHP Laravel
 - 🌱 Em meus repositórios você encontrará meus projetos e alguns exercícios de fixação
-- 👯 Estou procurando projetos back-end, front-end ou full-stack
+- 👯 Estou procurando projetos back-end, front-end ou full-stack para contribuir
 - 🗣️ Portuguese: Nativo (Native)
 - 🗣️ English: Fluente (Fluent)
 - 🗣️ Spanish: Intermediário (Intermediate)
